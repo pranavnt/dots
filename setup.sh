@@ -1,3 +1,4 @@
+# script to move dotfiles from individual directories to root
 # bash stuf
 cp bash/.bashrc .
 
