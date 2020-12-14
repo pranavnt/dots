@@ -1,4 +1,7 @@
-# Git stuf
+# bash stuf
+cp bash/.bashrc .
+
+# git stuf
 cp git/.gitconfig .
 cp git/.gitignore_global .
 
