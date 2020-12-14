@@ -4,3 +4,5 @@
 	username = pranavnt
 [core]
 	excludesfile = /home/pranavnt/.gitignore_global
+[credential]
+	helper = cache --timeout=43200
