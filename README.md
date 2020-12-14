@@ -1,7 +1,10 @@
 # dots
-## Git
+## bash
+- .bashrc
+
+## git
 - .gitconfig
 - .gitignore_global
 
-## Vim
+## vim
 - .vimrc
