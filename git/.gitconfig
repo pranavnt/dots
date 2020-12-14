@@ -1,0 +1,6 @@
+[user]
+	name = Pranav Teegavarapu
+	email = pranavnt@outlook.com
+	username = pranavnt
+[core]
+	excludesfile = /home/pranavnt/.gitignore_global
