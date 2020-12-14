@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Copying over bash dotfiles
+cp .bashrc bash/
+
 # Copying over git dotfiles
 cp .gitconfig ./git
 cp .gitignore_global ./git
@@ -11,8 +14,9 @@ cp .vimrc ./vim
 git add git
 git add vim
 
-# Backing up script
-git add backup_dots.sh
+# Backing up scripts
+git add setup.sh
+git add backup.sh
 
 # Commiting
 git commit -m "backup" # switch to reading argument
